@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788970724932,
+      "tag": "0000_gigantic_masked_marvel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788974288329,
+      "tag": "0001_volatile_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788978542753,
+      "tag": "0002_dry_spencer_smythe",
+      "breakpoints": true
+    }
+  ]
+}
